@@ -4,7 +4,7 @@ subtitle:
 email: apedrocruz@tecnico.ulisboa.pt
 description: Student at Instituto Superior Técnico, Lisbon.<br /> MSc in Engineering Systems and Computer Engineering with focus on cyber-security. <br /> Traveller. Curious. Ambitious. Open-minded.
 baseurl: # the subpath of your site, e.g. /blog
-url: pedrocrvz.me
+url: # the base hostname & protocol for your site
 author:
 city: Lisbon
 country: Portugal
